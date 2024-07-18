@@ -5,7 +5,7 @@
 <h3 align="center">A passionate data analyst and python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/1*b_D3Ha297uCBO_XodVzcwg.gif">
 
-- 🔭 I’m currently developing and optimizing a [Credit card analysis using PowerBI](https://github.com/Raj-Sinha1/powerBi-Projects/blob/fe40f2e7f431706e36c317ab820c8743f1d56528/credit%20card%20data%20analysis)
+- 🔭 I’m currently developing and optimizing a project on [Credit card analysis using PowerBI](https://github.com/Raj-Sinha1/powerBi-Projects/blob/fe40f2e7f431706e36c317ab820c8743f1d56528/credit%20card%20data%20analysis)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GMpBbiK0cHo8rMf3HuK4I7JVh9zDl76k/view)
 
